@@ -1,0 +1,2 @@
+.App{text-align:center}.todo-card{display:flex;flex-direction:column;border:1px solid;border-radius:10px;background-color:#cddcdc;background-image:radial-gradient(at 50% 100%,hsla(0,0%,100%,.5) 0,rgba(0,0,0,.5) 100%),linear-gradient(180deg,hsla(0,0%,100%,.25) 0,rgba(0,0,0,.25));background-blend-mode:screen,overlay;padding:20px}.container{margin:0 auto;width:75vw;display:grid;grid-template-columns:repeat(4,1fr);grid-gap:10px;border-radius:10px}
+/*# sourceMappingURL=main.cd484eb3.chunk.css.map */
